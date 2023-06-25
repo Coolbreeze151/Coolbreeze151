@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, Terraform, Serverless, Docker, Kubernetes, Postgres**
 
-- 🌱 I’m currently learning **to implement end to end MLOps on CLoud Services**
+- 🌱 I’m currently learning **to implement end to end MLOps on Cloud Services**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **GCP, Azure on top of AWS**
 
@@ -38,7 +38,7 @@
 
 - 📫 Feel free to reach me out **ismahfaris@gmail.com**
   
-- 🏠 I am currently learning the [DevOps](https://roadmap.sh/devops), [Software Architect](https://roadmap.sh/software-architect) and [Backend](https://roadmap.sh/backend) skills on roadmap.sh
+- 🏠 I am currently learning [DevOps](https://roadmap.sh/devops), [Software Architect](https://roadmap.sh/software-architect) and [Backend](https://roadmap.sh/backend) related skills on roadmap.sh
 <!--Intro end-->
 
 
