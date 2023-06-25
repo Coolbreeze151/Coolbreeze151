@@ -85,7 +85,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,gcp,azure,terraform,serverless,docker,kubernetes,python,dynamodb,github,html,css,bootstrap,java,js,linux,md,materialui,postgres,mysql,nextjs,nodejs,postman,py,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,gcp,azure,docker,kubernetes,nginx,py,dynamodb,github,gitlab,html,css,bootstrap,java,js,linux,md,materialui,postgres,mysql,nextjs,nodejs,postman,py,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
