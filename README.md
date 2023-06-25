@@ -38,7 +38,7 @@
 
 - 📫 Feel free to reach me out **ismahfaris@gmail.com**
   
-- 🏠
+- 🏠 I am currently learning the [DevOps](https://roadmap.sh/devops), [Software Architect](https://roadmap.sh/software-architect) and [Backend](https://roadmap.sh/backend) skills on roadmap.sh
 <!--Intro end-->
 
 
@@ -86,7 +86,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,gcp,azure,docker,kubernetes,nginx,py,dynamodb,github,gitlab,java,js,linux,md,postgres,mysql,nextjs,stackoverflow,scala,vim,postman,html,css,bootstrap,tailwind,ts,vscode,yaml,json&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,gcp,azure,docker,kubernetes,nginx,py,dynamodb,github,gitlab,java,js,linux,md,postgres,mysql,nextjs,stackoverflow,scala,vim,postman,html,css,bootstrap,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
