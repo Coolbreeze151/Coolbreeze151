@@ -57,7 +57,7 @@
 
 <td width="50%" align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&layout=pie&theme=dark)](https://github.com/Coolbreeze151/github-readme-stats)
   
   </td>
 </tr>
