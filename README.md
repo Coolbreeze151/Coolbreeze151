@@ -57,7 +57,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Coolbreeze151&theme=dark&&layout=pie"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Coolbreeze151&theme=dark&layout=pie"/>
   
   </td>
 </tr>
