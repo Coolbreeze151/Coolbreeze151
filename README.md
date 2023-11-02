@@ -53,6 +53,9 @@
 <a href="https://github.com/Coolbreeze151/Coolbreeze151">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&hide=java,html,css,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=pie" />
 </a>
+<a href="https://github.com/Coolbreeze151/Coolbreeze151">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Coolbreeze151)](https://git.io/streak-stats" />
+</a>
 
 <!--- stats (end) -->
 
