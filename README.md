@@ -57,10 +57,9 @@
 </picture>
 </p>
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://streak-stats.demolab.com?user=Coolbreeze151&theme=dark&border_radius=4&card_width=400" />
 </picture>
 </p>
-[![Top Langs](](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- stats (end) -->
 <!--- trophy (start) -->
