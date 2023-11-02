@@ -44,9 +44,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
 <!--- stats (start) -->
-  <a href="https://github.com/Coolbreeze151/Coolbreeze151">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Coolbreeze151&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,issues" alt="Faris' GitHub Stats" />
-  </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <!--- stats (end) -->
 <!--- trophy (start) -->
