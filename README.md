@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Coding with some Faris Magic</h2></summary>
+    <summary><h2 style="display: inline-block">Coding with some Faris Magic 🪄</h2></summary>
   </ul>
 </div>
 
@@ -44,7 +44,7 @@
 </br>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">GitHub Stats</h2></summary>
+    <summary><h2 style="display: inline-block">GitHub Stats 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -85,7 +85,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
