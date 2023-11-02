@@ -40,11 +40,6 @@
   
 - 🏠 I am currently learning [DevOps](https://roadmap.sh/devops), [Software Architect](https://roadmap.sh/software-architect) and [Backend](https://roadmap.sh/backend) related skills on roadmap.sh
 <!--Intro end-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">GitHub Stats 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
