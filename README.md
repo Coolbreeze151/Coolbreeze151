@@ -46,22 +46,24 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Coolbreeze151&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Coolbreeze151&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+## &#x1f4c8; GitHub Stats
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&layout=pie&theme=dark&langs_count=10&hide=jupyter%20notebook,html,css)](https://github.com/Coolbreeze151/github-readme-stats)
-  
-  </td>
+<a href="https://github.com/Coolbreeze151/Coolbreeze151">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Coolbreeze151&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Faris' GitHub Stats" />
+</a>
 
-</tr>
-</table>
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coolbreeze151&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coolbreeze151&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
