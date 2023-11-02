@@ -56,7 +56,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Coolbreeze151&show_icons=true" />
 </picture>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&layout=compact&theme=vision-friendly-dark" />
+</picture>
+</p>
+[![Top Langs](](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- stats (end) -->
 <!--- trophy (start) -->
