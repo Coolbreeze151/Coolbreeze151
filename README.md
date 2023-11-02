@@ -41,7 +41,7 @@
 - 🏠 I am currently learning [DevOps](https://roadmap.sh/devops), [Software Architect](https://roadmap.sh/software-architect) and [Backend](https://roadmap.sh/backend) related skills on roadmap.sh
 <!--Intro end-->
 
-
+</br>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
