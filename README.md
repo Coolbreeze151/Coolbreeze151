@@ -55,11 +55,7 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Coolbreeze151&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&layout=pie&theme=dark&langs_count=10&hide=jupyter%20notebook,html,css)](https://github.com/Coolbreeze151/github-readme-stats)
-  
-  </td>
 </tr>
 </table>
 <!--- stats (end) -->
