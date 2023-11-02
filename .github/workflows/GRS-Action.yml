@@ -1,0 +1,18 @@
+name: GRS card generation
+on:
+  schedule:
+  - cron:  '0 0 */1 * *'
+              
+jobs:
+  ceateGRSCards:
+    name: GRS Action
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run top issues action
+      uses: Zo-Bro-23/grs-action@v0.0.1
+      with:
+        save_path: ""
+        stats_card_query: ?username=Coolbreeze151
+        lang_card_query: ?username=Coolbreeze151
+        repo_card_query: ?username=Coolbreeze151&repo=github-readme-stats
+        wakatime_card_query: ?username=Coolbreeze151
