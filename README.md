@@ -57,7 +57,7 @@
 
 <td width="50%" align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&layout=pie&theme=dark&langs_count=10&hide=jupyter%20notebook,html)](https://github.com/Coolbreeze151/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&layout=pie&theme=dark&langs_count=10&hide=jupyter%20notebook,html,css)](https://github.com/Coolbreeze151/github-readme-stats)
   
   </td>
 </tr>
