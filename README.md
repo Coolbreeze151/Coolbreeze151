@@ -54,7 +54,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&hide=java,html,css,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=pie" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Coolbreeze151&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
