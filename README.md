@@ -56,9 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Coolbreeze151&show_icons=true" />
 </picture>
 </p>
-<div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Coolbreeze151&theme=dark&border_radius=4&card_width=400" alt="GitHub Streak" /></a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbreeze151&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--- stats (end) -->
 <!--- trophy (start) -->
 <div align=center>
