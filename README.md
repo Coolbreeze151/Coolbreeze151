@@ -1,3 +1,4 @@
+[![GitHub Ismahfaris Ismail](https://img.shields.io/github/followers/Coolbreeze151?label=follow&style=social)](https://github.com/Coolbreeze151)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -8,7 +9,6 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Faris</h1></summary>
   </ul>
 </div>
-      [![GitHub Ismahfaris Ismail](https://img.shields.io/github/followers/Coolbreeze151?label=follow&style=social)](https://github.com/Coolbreeze151)
 
 
 <!--- snake -->
