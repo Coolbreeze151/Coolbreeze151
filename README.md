@@ -7,9 +7,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Faris</h1></summary>
   </ul>
-  <ul align="center">
       [![GitHub Ismahfaris Ismail](https://img.shields.io/github/followers/Coolbreeze151?label=follow&style=social)](https://github.com/Coolbreeze151)
-  </ul>
 </div>
 
 
