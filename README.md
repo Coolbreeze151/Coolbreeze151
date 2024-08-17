@@ -13,7 +13,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/Coolbreeze151/Coolbreeze151/resources/grid-snake.svg"
+  <img  src="https://github.com/Coolbreeze151/Coolbreeze151/blob/main/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
